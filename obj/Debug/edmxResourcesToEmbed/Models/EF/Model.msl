@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLyDoAnModelStoreContainer" CdmEntityContainer="QuanLyDoAnEntities">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_ChuyenNganh">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_ChuyenNganh">
+        <MappingFragment StoreEntitySet="Tbl_ChuyenNganh">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ChuyenNganh" ColumnName="ChuyenNganh" />
+          <ScalarProperty Name="MaChuyenNganh" ColumnName="MaChuyenNganh" />
+          <ScalarProperty Name="Khoa_ID" ColumnName="Khoa_ID" />
+          <ScalarProperty Name="Mota" ColumnName="Mota" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_DoAn">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_DoAn">
+        <MappingFragment StoreEntitySet="Tbl_DoAn">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TenDoAn" ColumnName="TenDoAn" />
+          <ScalarProperty Name="MaDoAn" ColumnName="MaDoAn" />
+          <ScalarProperty Name="ChuyenNganh_ID" ColumnName="ChuyenNganh_ID" />
+          <ScalarProperty Name="NgayTao" ColumnName="NgayTao" />
+          <ScalarProperty Name="LinkSource" ColumnName="LinkSource" />
+          <ScalarProperty Name="LinkDocument" ColumnName="LinkDocument" />
+          <ScalarProperty Name="GiaoVien_ID" ColumnName="GiaoVien_ID" />
+          <ScalarProperty Name="HDCham_ID" ColumnName="HDCham_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_GiaoVien">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_GiaoVien">
+        <MappingFragment StoreEntitySet="Tbl_GiaoVien">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TenGiaoVien" ColumnName="TenGiaoVien" />
+          <ScalarProperty Name="MaGiaoVien" ColumnName="MaGiaoVien" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="ChuyenNganh_ID" ColumnName="ChuyenNganh_ID" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="QueQuan" ColumnName="QueQuan" />
+          <ScalarProperty Name="SoDienThoai" ColumnName="SoDienThoai" />
+          <ScalarProperty Name="HinhAnh" ColumnName="HinhAnh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_GVHD">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_GVHD">
+        <MappingFragment StoreEntitySet="Tbl_GVHD">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DoAn_ID" ColumnName="DoAn_ID" />
+          <ScalarProperty Name="GiaoVien_ID" ColumnName="GiaoVien_ID" />
+          <ScalarProperty Name="HuongNghienCuu" ColumnName="HuongNghienCuu" />
+          <ScalarProperty Name="NgayTao" ColumnName="NgayTao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_HDCham">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_HDCham">
+        <MappingFragment StoreEntitySet="Tbl_HDCham">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TenHoiDong" ColumnName="TenHoiDong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_HeDaoTao">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_HeDaoTao">
+        <MappingFragment StoreEntitySet="Tbl_HeDaoTao">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TenHe" ColumnName="TenHe" />
+          <ScalarProperty Name="MaHe" ColumnName="MaHe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_HoiDong">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_HoiDong">
+        <MappingFragment StoreEntitySet="Tbl_HoiDong">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="GiaoVien_ID" ColumnName="GiaoVien_ID" />
+          <ScalarProperty Name="NhanXet" ColumnName="NhanXet" />
+          <ScalarProperty Name="Loai" ColumnName="Loai" />
+          <ScalarProperty Name="HDCham_ID" ColumnName="HDCham_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Khoa">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_Khoa">
+        <MappingFragment StoreEntitySet="Tbl_Khoa">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaKhoa" ColumnName="MaKhoa" />
+          <ScalarProperty Name="TenKhoa" ColumnName="TenKhoa" />
+          <ScalarProperty Name="MoTa" ColumnName="MoTa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Lop">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_Lop">
+        <MappingFragment StoreEntitySet="Tbl_Lop">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TenLop" ColumnName="TenLop" />
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+          <ScalarProperty Name="ChuyenNganh_ID" ColumnName="ChuyenNganh_ID" />
+          <ScalarProperty Name="HeDaoTao_ID" ColumnName="HeDaoTao_ID" />
+          <ScalarProperty Name="SiSo" ColumnName="SiSo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_NamBaoVe">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_NamBaoVe">
+        <MappingFragment StoreEntitySet="Tbl_NamBaoVe">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DotBaoVe" ColumnName="DotBaoVe" />
+          <ScalarProperty Name="NamBaoVe" ColumnName="NamBaoVe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_NienKhoa">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_NienKhoa">
+        <MappingFragment StoreEntitySet="Tbl_NienKhoa">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NienKhoa" ColumnName="NienKhoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_SinhVien">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_SinhVien">
+        <MappingFragment StoreEntitySet="Tbl_SinhVien">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TenSinhVien" ColumnName="TenSinhVien" />
+          <ScalarProperty Name="MaSinhVien" ColumnName="MaSinhVien" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="ChuyenNganh_ID" ColumnName="ChuyenNganh_ID" />
+          <ScalarProperty Name="Lop_ID" ColumnName="Lop_ID" />
+          <ScalarProperty Name="HeDaoTao_ID" ColumnName="HeDaoTao_ID" />
+          <ScalarProperty Name="NienKhoa_ID" ColumnName="NienKhoa_ID" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="QueQuan" ColumnName="QueQuan" />
+          <ScalarProperty Name="SoDienThoai" ColumnName="SoDienThoai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_ThamGia">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_ThamGia">
+        <MappingFragment StoreEntitySet="Tbl_ThamGia">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DoAn_ID" ColumnName="DoAn_ID" />
+          <ScalarProperty Name="SinhVien_ID" ColumnName="SinhVien_ID" />
+          <ScalarProperty Name="Diem" ColumnName="Diem" />
+          <ScalarProperty Name="NamBaoVe_ID" ColumnName="NamBaoVe_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_User">
+      <EntityTypeMapping TypeName="QuanLyDoAnModel.Tbl_User">
+        <MappingFragment StoreEntitySet="Tbl_User">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Account" ColumnName="Account" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Fullname" ColumnName="Fullname" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="QuanLyDoAnModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="QuanLyDoAnModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="QuanLyDoAnModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="QuanLyDoAnModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLyDoAnModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="QuanLyDoAnModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLyDoAnModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="QuanLyDoAnModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="QuanLyDoAnModel.Store.sp_upgraddiagrams" />
+  </EntityContainerMapping>
+</Mapping>

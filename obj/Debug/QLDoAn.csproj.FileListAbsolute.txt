@@ -1,0 +1,275 @@
+E:\Part time\New Project\QLDoAn\bin\QLDoAn.dll.config
+E:\Part time\New Project\QLDoAn\bin\QLDoAn.dll
+E:\Part time\New Project\QLDoAn\bin\QLDoAn.pdb
+E:\Part time\New Project\QLDoAn\bin\roslyn\csc.exe
+E:\Part time\New Project\QLDoAn\bin\roslyn\csc.exe.config
+E:\Part time\New Project\QLDoAn\bin\roslyn\csc.rsp
+E:\Part time\New Project\QLDoAn\bin\roslyn\csi.exe
+E:\Part time\New Project\QLDoAn\bin\roslyn\csi.exe.config
+E:\Part time\New Project\QLDoAn\bin\roslyn\csi.rsp
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Part time\New Project\QLDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.AppContext.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Collections.Immutable.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Console.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.IO.Compression.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.IO.FileSystem.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.IO.Pipes.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Reflection.Metadata.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Security.AccessControl.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Security.Claims.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.ValueTuple.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Xml.XPath.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Part time\New Project\QLDoAn\bin\roslyn\vbc.exe
+E:\Part time\New Project\QLDoAn\bin\roslyn\vbc.exe.config
+E:\Part time\New Project\QLDoAn\bin\roslyn\vbc.rsp
+E:\Part time\New Project\QLDoAn\bin\roslyn\VBCSCompiler.exe
+E:\Part time\New Project\QLDoAn\bin\roslyn\VBCSCompiler.exe.config
+E:\Part time\New Project\QLDoAn\bin\Antlr3.Runtime.dll
+E:\Part time\New Project\QLDoAn\bin\EntityFramework.dll
+E:\Part time\New Project\QLDoAn\bin\EntityFramework.SqlServer.dll
+E:\Part time\New Project\QLDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Part time\New Project\QLDoAn\bin\Microsoft.Web.Infrastructure.dll
+E:\Part time\New Project\QLDoAn\bin\Newtonsoft.Json.dll
+E:\Part time\New Project\QLDoAn\bin\PagedList.dll
+E:\Part time\New Project\QLDoAn\bin\PagedList.Mvc.dll
+E:\Part time\New Project\QLDoAn\bin\System.Web.Helpers.dll
+E:\Part time\New Project\QLDoAn\bin\System.Web.Mvc.dll
+E:\Part time\New Project\QLDoAn\bin\System.Web.Optimization.dll
+E:\Part time\New Project\QLDoAn\bin\System.Web.Razor.dll
+E:\Part time\New Project\QLDoAn\bin\System.Web.WebPages.Deployment.dll
+E:\Part time\New Project\QLDoAn\bin\System.Web.WebPages.dll
+E:\Part time\New Project\QLDoAn\bin\System.Web.WebPages.Razor.dll
+E:\Part time\New Project\QLDoAn\bin\WebGrease.dll
+E:\Part time\New Project\QLDoAn\bin\EntityFramework.xml
+E:\Part time\New Project\QLDoAn\bin\EntityFramework.SqlServer.xml
+E:\Part time\New Project\QLDoAn\bin\PagedList.xml
+E:\Part time\New Project\QLDoAn\bin\PagedList.Mvc.xml
+E:\Part time\New Project\QLDoAn\bin\System.Web.Helpers.xml
+E:\Part time\New Project\QLDoAn\bin\System.Web.Mvc.xml
+E:\Part time\New Project\QLDoAn\bin\System.Web.Optimization.xml
+E:\Part time\New Project\QLDoAn\bin\System.Web.Razor.xml
+E:\Part time\New Project\QLDoAn\bin\System.Web.WebPages.xml
+E:\Part time\New Project\QLDoAn\bin\System.Web.WebPages.Deployment.xml
+E:\Part time\New Project\QLDoAn\bin\System.Web.WebPages.Razor.xml
+E:\Part time\New Project\QLDoAn\bin\Newtonsoft.Json.xml
+E:\Part time\New Project\QLDoAn\bin\Antlr3.Runtime.pdb
+E:\Part time\New Project\QLDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Part time\New Project\QLDoAn\obj\Debug\QLDoAn.csprojAssemblyReference.cache
+E:\Part time\New Project\QLDoAn\obj\Debug\QLDoAn.csproj.CopyComplete
+E:\Part time\New Project\QLDoAn\obj\Debug\QLDoAn.dll
+E:\Part time\New Project\QLDoAn\obj\Debug\QLDoAn.pdb
+E:\Part time\New Project\QLDoAn\bin\ClosedXML.dll
+E:\Part time\New Project\QLDoAn\bin\DocumentFormat.OpenXml.dll
+E:\Part time\New Project\QLDoAn\bin\ExcelNumberFormat.dll
+E:\Part time\New Project\QLDoAn\bin\System.IO.Packaging.dll
+E:\Part time\New Project\QLDoAn\bin\ClosedXML.pdb
+E:\Part time\New Project\QLDoAn\bin\ClosedXML.xml
+E:\Part time\New Project\QLDoAn\bin\DocumentFormat.OpenXml.xml
+E:\Part time\New Project\QLDoAn\bin\ExcelNumberFormat.xml
+C:\QLDoAn\bin\QLDoAn.dll.config
+C:\QLDoAn\bin\QLDoAn.dll
+C:\QLDoAn\bin\QLDoAn.pdb
+C:\QLDoAn\bin\roslyn\csc.exe
+C:\QLDoAn\bin\roslyn\csc.exe.config
+C:\QLDoAn\bin\roslyn\csc.rsp
+C:\QLDoAn\bin\roslyn\csi.exe
+C:\QLDoAn\bin\roslyn\csi.exe.config
+C:\QLDoAn\bin\roslyn\csi.rsp
+C:\QLDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\QLDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\QLDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\QLDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\QLDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\QLDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\QLDoAn\bin\roslyn\System.AppContext.dll
+C:\QLDoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\QLDoAn\bin\roslyn\System.Console.dll
+C:\QLDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\QLDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\QLDoAn\bin\roslyn\System.IO.Compression.dll
+C:\QLDoAn\bin\roslyn\System.IO.FileSystem.dll
+C:\QLDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\QLDoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\QLDoAn\bin\roslyn\System.IO.Pipes.dll
+C:\QLDoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\QLDoAn\bin\roslyn\System.Security.AccessControl.dll
+C:\QLDoAn\bin\roslyn\System.Security.Claims.dll
+C:\QLDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\QLDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\QLDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\QLDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\QLDoAn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\QLDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\QLDoAn\bin\roslyn\System.ValueTuple.dll
+C:\QLDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\QLDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\QLDoAn\bin\roslyn\System.Xml.XPath.dll
+C:\QLDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\QLDoAn\bin\roslyn\vbc.exe
+C:\QLDoAn\bin\roslyn\vbc.exe.config
+C:\QLDoAn\bin\roslyn\vbc.rsp
+C:\QLDoAn\bin\roslyn\VBCSCompiler.exe
+C:\QLDoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\QLDoAn\bin\Antlr3.Runtime.dll
+C:\QLDoAn\bin\ClosedXML.dll
+C:\QLDoAn\bin\DocumentFormat.OpenXml.dll
+C:\QLDoAn\bin\EntityFramework.dll
+C:\QLDoAn\bin\EntityFramework.SqlServer.dll
+C:\QLDoAn\bin\ExcelNumberFormat.dll
+C:\QLDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\QLDoAn\bin\Microsoft.Web.Infrastructure.dll
+C:\QLDoAn\bin\Newtonsoft.Json.dll
+C:\QLDoAn\bin\PagedList.dll
+C:\QLDoAn\bin\PagedList.Mvc.dll
+C:\QLDoAn\bin\System.IO.Packaging.dll
+C:\QLDoAn\bin\System.Web.Helpers.dll
+C:\QLDoAn\bin\System.Web.Mvc.dll
+C:\QLDoAn\bin\System.Web.Optimization.dll
+C:\QLDoAn\bin\System.Web.Razor.dll
+C:\QLDoAn\bin\System.Web.WebPages.Deployment.dll
+C:\QLDoAn\bin\System.Web.WebPages.dll
+C:\QLDoAn\bin\System.Web.WebPages.Razor.dll
+C:\QLDoAn\bin\WebGrease.dll
+C:\QLDoAn\bin\ClosedXML.pdb
+C:\QLDoAn\bin\ClosedXML.xml
+C:\QLDoAn\bin\DocumentFormat.OpenXml.xml
+C:\QLDoAn\bin\EntityFramework.xml
+C:\QLDoAn\bin\EntityFramework.SqlServer.xml
+C:\QLDoAn\bin\ExcelNumberFormat.xml
+C:\QLDoAn\bin\PagedList.xml
+C:\QLDoAn\bin\PagedList.Mvc.xml
+C:\QLDoAn\bin\System.Web.Helpers.xml
+C:\QLDoAn\bin\System.Web.Mvc.xml
+C:\QLDoAn\bin\System.Web.Optimization.xml
+C:\QLDoAn\bin\System.Web.Razor.xml
+C:\QLDoAn\bin\System.Web.WebPages.xml
+C:\QLDoAn\bin\System.Web.WebPages.Deployment.xml
+C:\QLDoAn\bin\System.Web.WebPages.Razor.xml
+C:\QLDoAn\bin\Newtonsoft.Json.xml
+C:\QLDoAn\bin\Antlr3.Runtime.pdb
+C:\QLDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\QLDoAn\obj\Debug\QLDoAn.csprojAssemblyReference.cache
+C:\QLDoAn\obj\Debug\QLDoAn.csproj.CoreCompileInputs.cache
+C:\QLDoAn\obj\Debug\QLDoAn.csproj.CopyComplete
+C:\QLDoAn\obj\Debug\QLDoAn.dll
+C:\QLDoAn\obj\Debug\QLDoAn.pdb
+D:\QLDATN\QLDoAn\bin\QLDoAn.dll.config
+D:\QLDATN\QLDoAn\bin\QLDoAn.dll
+D:\QLDATN\QLDoAn\bin\QLDoAn.pdb
+D:\QLDATN\QLDoAn\bin\roslyn\csc.exe
+D:\QLDATN\QLDoAn\bin\roslyn\csc.exe.config
+D:\QLDATN\QLDoAn\bin\roslyn\csc.rsp
+D:\QLDATN\QLDoAn\bin\roslyn\csi.exe
+D:\QLDATN\QLDoAn\bin\roslyn\csi.exe.config
+D:\QLDATN\QLDoAn\bin\roslyn\csi.rsp
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.Managed.Core.targets
+D:\QLDATN\QLDoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QLDATN\QLDoAn\bin\roslyn\System.AppContext.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Collections.Immutable.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Console.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.IO.Compression.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.IO.FileSystem.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.IO.Pipes.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Reflection.Metadata.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Security.AccessControl.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Security.Claims.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Security.Principal.Windows.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.ValueTuple.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Xml.XmlDocument.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Xml.XPath.dll
+D:\QLDATN\QLDoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\QLDATN\QLDoAn\bin\roslyn\vbc.exe
+D:\QLDATN\QLDoAn\bin\roslyn\vbc.exe.config
+D:\QLDATN\QLDoAn\bin\roslyn\vbc.rsp
+D:\QLDATN\QLDoAn\bin\roslyn\VBCSCompiler.exe
+D:\QLDATN\QLDoAn\bin\roslyn\VBCSCompiler.exe.config
+D:\QLDATN\QLDoAn\bin\Antlr3.Runtime.dll
+D:\QLDATN\QLDoAn\bin\ClosedXML.dll
+D:\QLDATN\QLDoAn\bin\DocumentFormat.OpenXml.dll
+D:\QLDATN\QLDoAn\bin\EntityFramework.dll
+D:\QLDATN\QLDoAn\bin\EntityFramework.SqlServer.dll
+D:\QLDATN\QLDoAn\bin\ExcelNumberFormat.dll
+D:\QLDATN\QLDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QLDATN\QLDoAn\bin\Microsoft.Web.Infrastructure.dll
+D:\QLDATN\QLDoAn\bin\Newtonsoft.Json.dll
+D:\QLDATN\QLDoAn\bin\PagedList.dll
+D:\QLDATN\QLDoAn\bin\PagedList.Mvc.dll
+D:\QLDATN\QLDoAn\bin\System.IO.Packaging.dll
+D:\QLDATN\QLDoAn\bin\System.Web.Helpers.dll
+D:\QLDATN\QLDoAn\bin\System.Web.Mvc.dll
+D:\QLDATN\QLDoAn\bin\System.Web.Optimization.dll
+D:\QLDATN\QLDoAn\bin\System.Web.Razor.dll
+D:\QLDATN\QLDoAn\bin\System.Web.WebPages.Deployment.dll
+D:\QLDATN\QLDoAn\bin\System.Web.WebPages.dll
+D:\QLDATN\QLDoAn\bin\System.Web.WebPages.Razor.dll
+D:\QLDATN\QLDoAn\bin\WebGrease.dll
+D:\QLDATN\QLDoAn\bin\ClosedXML.pdb
+D:\QLDATN\QLDoAn\bin\ClosedXML.xml
+D:\QLDATN\QLDoAn\bin\DocumentFormat.OpenXml.xml
+D:\QLDATN\QLDoAn\bin\EntityFramework.xml
+D:\QLDATN\QLDoAn\bin\EntityFramework.SqlServer.xml
+D:\QLDATN\QLDoAn\bin\ExcelNumberFormat.xml
+D:\QLDATN\QLDoAn\bin\PagedList.xml
+D:\QLDATN\QLDoAn\bin\PagedList.Mvc.xml
+D:\QLDATN\QLDoAn\bin\System.Web.Helpers.xml
+D:\QLDATN\QLDoAn\bin\System.Web.Mvc.xml
+D:\QLDATN\QLDoAn\bin\System.Web.Optimization.xml
+D:\QLDATN\QLDoAn\bin\System.Web.Razor.xml
+D:\QLDATN\QLDoAn\bin\System.Web.WebPages.xml
+D:\QLDATN\QLDoAn\bin\System.Web.WebPages.Deployment.xml
+D:\QLDATN\QLDoAn\bin\System.Web.WebPages.Razor.xml
+D:\QLDATN\QLDoAn\bin\Newtonsoft.Json.xml
+D:\QLDATN\QLDoAn\bin\Antlr3.Runtime.pdb
+D:\QLDATN\QLDoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QLDATN\QLDoAn\obj\Debug\QLDoAn.csproj.CoreCompileInputs.cache
+D:\QLDATN\QLDoAn\obj\Debug\QLDoAn.csproj.CopyComplete
+D:\QLDATN\QLDoAn\obj\Debug\QLDoAn.dll
+D:\QLDATN\QLDoAn\obj\Debug\QLDoAn.pdb
+D:\QLDATN\QLDoAn\obj\Debug\QLDoAn.csproj.AssemblyReference.cache
